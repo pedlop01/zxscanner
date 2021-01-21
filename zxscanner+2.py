@@ -3,6 +3,7 @@
 # @mrpjevans mrpjevans.com 2017
 # MIT License (https://opensource.org/licenses/MIT) see LICENSE
 #
+# Modified by pedlop01 for ZX Spectrum + 2
 
 import time, sys, wiringpi, uinput, os
 
